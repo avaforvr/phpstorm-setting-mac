@@ -54,6 +54,7 @@
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -124,8 +125,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
