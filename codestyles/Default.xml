@@ -6,6 +6,8 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <LessCodeStyleSettings>
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
@@ -25,6 +27,8 @@
   </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
