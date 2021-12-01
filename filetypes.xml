@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern="hosts-config.json" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="hosts.json" type="PLAIN_TEXT" />
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="hosts-config.json" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping ext="wy" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
@@ -13,6 +13,7 @@
       <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
       <removed_mapping pattern=".njk" approved="true" type="Twig" />
       <removed_mapping pattern=".nunj" approved="true" type="Twig" />
+      <removed_mapping pattern="AffixBar.tsx" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="FormEmail.tsx" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="LoginForm" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="node-alias.js" approved="true" type="PLAIN_TEXT" />
