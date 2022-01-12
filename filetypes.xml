@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="SecurityList" type="AUTO_DETECTED" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="hosts.json" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
