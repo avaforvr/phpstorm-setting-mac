@@ -270,6 +270,10 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="Table-selectLastRow" />
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
