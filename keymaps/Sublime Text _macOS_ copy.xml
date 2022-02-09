@@ -266,9 +266,11 @@
   <action id="ShowSearchHistory" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
