@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="xml">
+      <display-name>ProdInfo/@reviewInfo</display-name>
+      <single-file value="false" />
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("reviewInfo")).withParent(xmlTag().withLocalName(string().equalTo("ProdInfo")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
