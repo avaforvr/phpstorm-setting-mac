@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
@@ -13,6 +16,7 @@
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
     <option name="collapseObjectLiterals" value="true" />
+    <option name="collapseOneLineFunctions" value="true" />
     <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
     <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
   </component>
