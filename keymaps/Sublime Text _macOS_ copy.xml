@@ -184,9 +184,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="GotoNextBookmark" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
@@ -253,6 +251,9 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
@@ -295,6 +296,7 @@
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
   <action id="UML.ShowStructure" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
